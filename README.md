@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+#Printify Homepage Clone
+Project Overview
+This project is a clone of the Printify homepage, built using ReactJS and Tailwind CSS. The purpose of the project is to recreate the design and layout of the Printify homepage, incorporating key components such as a Profit Calculator and a Blog Section. This project demonstrates a responsive design that adapts well to various screen sizes, ensuring a seamless user experience across devices.
+
+##Features
+Profit Calculator: A section that breaks down the cost and profit of selling a t-shirt, displaying the selling price, production cost, and net profit. It includes a call-to-action button for users to get started.
+Blog Section: A dedicated section showcasing articles with topics related to e-commerce and making money with Printify, along with an email subscription form to capture user interest.
+Responsive Design: The entire page is fully responsive, ensuring it works well on mobile, tablet, and desktop devices.
+Technologies Used
+ReactJS: For creating reusable and dynamic UI components.
+Tailwind CSS: For styling and ensuring a consistent, responsive layout with utility-first CSS classes.
+JavaScript (ES6): For handling interactivity and component logic.
+HTML5: For structuring the content.
+CSS3: Tailwind is built on top of modern CSS, allowing rapid and flexible styling.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
